@@ -33,10 +33,10 @@ State any dependencies and their versions needed to be installed to test this pr
 Please give detailed instructions on installing, configuring, and running the project so judges can fully replicate and assess it. 
 
 This can include:
-1. Clone repository
-2. Install dependencies
-3. Access data
-4. Steps to build/run project
+1. Clone repository to your local machine
+2. Create Schema in Tiger Graph based on Entity Relationship Diagram here: https://lucid.app/lucidchart/c71e9a03-b7f5-42c4-94ea-2e47151c60b3/edit?invitationId=inv_fda602b8-18cf-4157-a747-9c1d4b91e781&page=0_0#
+3. Map the data file CSV's located in the "Data" folder to the Nodes and Edges
+4. Copy and Paste the GSQL queries in the GSQL folder into the XXX
 
 ## Known Issues and Future Improvements
 
